@@ -1,2 +1,64 @@
 # snort-live-attacks-soc1-tryhackme
-Snort SOC L1 hands‑on lab: investigate live and captured traffic from the "Snort Challenge — Live Attacks" room; document detections, rules, and mitigations.
+Snort SOC L1 hands‑on lab: Investigate live and captured traffic from the "Snort Challenge — Live Attacks" room; document detections, rules, and mitigations.
+---
+
+## Project Introduction
+
+This repository documents step‑by‑step the approach and outcomes of two TryHackMe lab challenges. The content focuses on methodology, commands, evidence (screenshots), and lessons learned to demonstrate practical skills in offensive security techniques used in controlled lab environments.
+
+**Scope**: The repository covers:
+- Scenario 1 — Brute Force
+- Scenario 2 — Reverse Shell
+
+> All activities documented were performed in TryHackMe lab environments for learning and demonstration purposes only.
+
+---
+
+## Skills Demonstrated
+
+- skill-1
+- skill-2
+- skill-3
+
+---
+
+## Tools Used
+
+- `snort` — an open-source, rule-based Network Intrusion Detection and Prevention System (NIDS/NIPS)
+- `bash` - Linux command line (Terminal)
+- `nano` - Text editor
+- TryHackMe platform for lab environment
+
+---
+
+## Repository Structure
+
+├─ README.md
+├─ screenshots/
+│ ├─ scenario1-bruteforce/
+│ └─ scenario2-reverse-shell/
+└─ notes/
+├─ scenario1-analysis.md
+└─ scenario2-analysis.md
+
+
+- `screenshots/` — stores all visual evidence captured during the labs.
+- `notes/` — detailed step‑by‑step notes, commands used, and analysis for each scenario.
+
+---
+
+## Lesson Learned
+
+- Systematic enumeration is critical: never skip version discovery and banner grabbing.
+- Use targeted wordlists and throttle brute force attempts to avoid unnecessary noise.
+- Always document commands used, environment variables, and timestamps for reproducibility.
+- When obtaining interactive shells, upgrade to a stable TTY before performing heavy enumeration.
+- Respect lab scope and legal/ethical boundaries; these exercises are for education only.
+
+---
+
+## Conclusion
+
+This repository is a concise, evidence‑based record of two practical TryHackMe lab scenarios: Brute Force and Reverse Shell. It demonstrates the methodology, tools, and thought process used during the exercises. The artefacts captured here (screenshots, notes) are intended for personal portfolio use and to showcase hands‑on capability in controlled lab environments.
+
+---
