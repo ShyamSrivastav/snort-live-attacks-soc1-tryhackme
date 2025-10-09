@@ -16,9 +16,9 @@ This repository documents step‑by‑step the approach and outcomes of two TryH
 
 ## Skills Demonstrated
 
-- skill-1
-- skill-2
-- skill-3
+- bash scripting
+- snort
+- nano/vim -- text editor
 
 ---
 
