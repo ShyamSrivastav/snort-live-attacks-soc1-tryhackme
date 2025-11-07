@@ -33,17 +33,17 @@ This repository documents step‑by‑step the approach and outcomes of two TryH
 
 ## Repository Structure
 
+```
+snort-live-attacks-soc1-tryhackme/
 ├─ README.md
 ├─ screenshots/
-│ ├─ scenario1-bruteforce/
-│ └─ scenario2-reverse-shell/
-└─ notes/
+│ ├─ s1_xx.png/
+│ └─ s2_xx.png/
 ├─ scenario1-analysis.md
 └─ scenario2-analysis.md
-
+```
 
 - `screenshots/` — stores all visual evidence captured during the labs.
-- `notes/` — detailed step‑by‑step notes, commands used, and analysis for each scenario.
 
 ---
 
