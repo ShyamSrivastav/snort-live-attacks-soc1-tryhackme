@@ -7,8 +7,8 @@ Snort SOC L1 hands‑on lab: Investigate live and captured traffic from the "Sno
 This repository documents step‑by‑step the approach and outcomes of two TryHackMe lab challenges. The content focuses on methodology, commands, evidence (screenshots), and lessons learned to demonstrate practical skills in offensive security techniques used in controlled lab environments.
 
 **Scope**: The repository covers:
-- Scenario 1 — Brute Force
-- Scenario 2 — Reverse Shell
+- [Scenario 1 — Brute Force](/scenario1-bruteforce.md)
+- [Scenario 2 — Reverse Shell](/scenario2-reverseshell.md)
 
 > All activities documented were performed in TryHackMe lab environments for learning and demonstration purposes only.
 
