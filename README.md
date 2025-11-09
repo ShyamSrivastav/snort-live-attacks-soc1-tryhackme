@@ -10,7 +10,7 @@ This repository documents step‑by‑step the approach and outcomes of two TryH
 - [Scenario 1 — Brute Force](/scenario1-bruteforce.md)
 - [Scenario 2 — Reverse Shell](/scenario2-reverseshell.md)
 
-> All activities documented were performed in TryHackMe lab environments for learning and demonstration purposes only.
+> All activities documented were performed in TryHackMe lab environments for learning and demonstration purposes only. **[Click Here](https://tryhackme.com/room/snortchallenges2)** to visit _**Snort Challenge - Live Attacks Room**_
 
 ---
 
