@@ -43,7 +43,7 @@ snort-live-attacks-soc1-tryhackme/
 └─ scenario2-analysis.md
 ```
 
-- `screenshots/` — stores all visual evidence captured during the labs.
+_**[screenshots](/screenshots)**_ — stores all visual evidence captured during the labs.
 
 ---
 
